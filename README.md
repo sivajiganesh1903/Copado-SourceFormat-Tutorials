@@ -36,3 +36,6 @@ Git checkout main (swtich to main)
 
 Git merge feature/US-0001. (mereging the new feature branch into main)
 
+git push:
+
+It is used to push you local branch changes to remote branch

@@ -13,3 +13,7 @@ It is commonly used when a developer wants to undo local commits or clean up com
  
 
 Soft Reset: Keeps changes in the working directory, allowing the user to see what was modified.
+
+
+Git revert: Git Revert
+git revert is used to undo the changes introduced by an earlier commit without removing that commit from history.

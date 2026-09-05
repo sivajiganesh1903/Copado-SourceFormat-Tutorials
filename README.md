@@ -33,3 +33,9 @@ Here:
 •	v1.0 → tag name 
 •	-m → tag message
 
+Push Tag to Remote
+Creating a tag locally does not automatically push it to GitHub/GitLab/etc.
+Push one tag:
+git push origin v1.0
+Push all tags:
+git push origin --tags

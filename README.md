@@ -16,3 +16,10 @@ git tag v1.0
 
 Create a tag on a specific commit
 git tag v1.0 72d3e47
+
+See all tags
+git tag
+
+
+Delete a local tag
+git tag -d v1.0

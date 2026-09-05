@@ -23,3 +23,13 @@ git tag
 
 Delete a local tag
 git tag -d v1.0
+
+
+Annotated Tags
+For releases, you'll often see annotated tags:
+git tag -a v1.0 -m "Release version 1.0"
+Here:
+•	-a → create an annotated tag 
+•	v1.0 → tag name 
+•	-m → tag message
+

@@ -9,3 +9,10 @@ v1.1
 v2.0
 Release-2026.09
 
+Create a tag
+If you are currently on the commit you want to tag:
+git tag v1.0
+
+
+Create a tag on a specific commit
+git tag v1.0 72d3e47

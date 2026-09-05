@@ -37,5 +37,22 @@ Push Tag to Remote
 Creating a tag locally does not automatically push it to GitHub/GitLab/etc.
 Push one tag:
 git push origin v1.0
+
 Push all tags:
 git push origin --tags
+
+Real-world deployment example
+
+A common workflow is:
+
+Development
+    ↓
+Testing
+    ↓
+Pre-Production
+    ↓
+Production
+    ↓
+Create Tag
+    ↓
+v1.0.0
